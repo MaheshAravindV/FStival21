@@ -3,9 +3,6 @@ import React from "react";
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 
 export default function EventCard(props) {
-  function test() {
-    console.log("TEST");
-  }
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Test</Text>

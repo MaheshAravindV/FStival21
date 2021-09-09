@@ -7,7 +7,7 @@ export default function Main(props) {
     <View style={styles.container}>
       <EventCard
         {...props}
-        title="Event 1"
+        title="Event 122"
         description="Aliqua magna sunt est quis ut sint duis."
       ></EventCard>
       <EventCard
